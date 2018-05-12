@@ -1,0 +1,28 @@
+_repo: Thoughts-on-Educational-Topics-and-Institutions_19056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boutwell, George S. (George Sewall)
+    alias: Boutwell, George Sewall
+    birthdate: 1818
+    deathdate: 1905
+    gutenberg_agent_id: '8436'
+    url: http://www.gutenberg.org/2009/agents/8436
+    wikipedia: http://en.wikipedia.org/wiki/George_S._Boutwell
+description: ''
+gutenberg_issued: '2006-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+title: Thoughts on Educational Topics and Institutions
+url: http://www.gutenberg.org/ebooks/19056
